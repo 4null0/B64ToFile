@@ -1,4 +1,3 @@
-B64ToFile.py
 
 Este software es muy simple, decodifica el contenido en base64 de un archivo y lo almacena en otro.
 
